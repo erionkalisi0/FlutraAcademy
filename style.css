@@ -1,0 +1,78 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:aliceblue;
+    color:black;
+}
+
+.title{
+    background-color: rgb(142, 187, 224);
+    text-align: center;
+    border-radius: 7px;
+    margin-bottom: 20px;
+    padding: 15px 10px;
+    box-shadow: 0 3px 6px black;
+}
+.Login{
+    background-color:white;
+    text-align: center;
+    border-radius: 7px;
+    padding: 20px;
+    margin-bottom: 15px;
+    box-shadow: 0 3px 6px black;
+}
+h3{
+    text-align: center;
+}
+.detalies{
+    background-color:white;
+    border-radius: 7px;
+    padding: 20px;
+    margin-bottom: 15px;
+    box-shadow: 0 3px 6px black;
+}
+.lorem{
+    background-color: white;
+    border-radius: 7px;
+    padding: 30px 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 3px 6px black;
+}
+.loremm{
+    background-color: white;
+    border-radius: 7px;
+    padding: 30px 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 3px 6px black;
+}
+.Login input{
+    width: 30%;
+    border: 1px solid lightslategrey;
+    border-radius: 4px;
+    max-width: 300px;
+    padding: 14px;
+    margin: 10px ;
+}
+.Login button{
+    background-color: rgb(123, 224, 136);
+    color: white;
+    border-radius: 4px;
+    font-size: 20px;
+    padding: 3px 7px;
+}
+.detalies ul{
+    list-style: none;
+}
+.detalies li{
+    background-color:rgb(172, 231, 231);
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px 20px;
+    margin-bottom: 10px;
+    box-shadow: 0px 3px 6px black;
+    text-align: center;
+}
+.loremm img{
+    padding: 20px;
+    font-size: 15px;
+    width: 10%;
+}
